@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Rajas Gulf Trading Company</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+
+<header>
+  <a href="index.html">Home</a>
+  <a href="profile.html">Profile</a>
+  <a href="scrap.html">Scrap</a>
+  <a href="chemical.html">Chemical</a>
+  <a href="buyers.html">Buyers</a>
+  <a href="sellers.html">Sellers</a>
+  <a href="prices.html">Prices</a>
+  <a href="register.html">Register</a>
+</header>
+
+<div class="hero" style="background-image:url('https://images.unsplash.com/photo-1581091870627-3b7c39a2ccbb');">
+  <h1>Rajas Gulf Trading Company</h1>
+  <p>Scrap Metal & Industrial Chemical Trading</p>
+</div>
+
+<section>
+  <h2>About Us</h2>
+  <p>
+    Rajas Gulf Trading Company is an international trading firm specializing in
+    ferrous & non-ferrous metal scrap and industrial chemicals, serving global
+    buyers and suppliers with transparency and compliance.
+  </p>
+
+  <div class="grid">
+    <div class="card">
+      <h3>Scrap Division</h3>
+      <p>Ferrous and Non-Ferrous scrap as per ISRI / ReMA standards.</p>
+      <a class="btn" href="scrap.html">Explore Scrap</a>
+    </div>
+
+    <div class="card">
+      <h3>Chemical Division</h3>
+      <p>Industrial chemicals for oil & gas, water treatment, and manufacturing.</p>
+      <a class="btn" href="chemical.html">Explore Chemicals</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  © 2025 Rajas Gulf Trading Company
+</footer>
+
+</body>
+</html>
